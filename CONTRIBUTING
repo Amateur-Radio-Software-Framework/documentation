@@ -42,12 +42,6 @@ In special, I'd like to highlight and bring attention to help in the form of:
 
 It worth noting again that the best practices described in this guide are _guidelines_ and not rules. I won't refuse your contribution nor nitpick your commit messages if you're not following them strictly. It aims to help.
 
-### New translation checklist
-
-- Make sure you're working in the most updated branch. Rebase your code and fix conflicts when needed.
-- Make sure you've updated the [Available languages section](https://github.com/RomuloOliveira/commit-messages-guide#available-languages) section in (and only in) README.md.
-- Make sure you haven't included `Available languages` section in your translation (See [#31](https://github.com/RomuloOliveira/commit-messages-guide/pull/31)).
-
 ### Pull Request review process
 
 There will be at least 1 review from a member of the ARSFW organization. This is required. All pull requests will stay open until they have been reviewed.
