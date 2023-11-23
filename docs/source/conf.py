@@ -29,4 +29,5 @@ html_theme_options = {
     'collapse_navigation': False,
     'sticky_navigation': False,
 }
+html_logo = '_static/arsfw.png'
 html_static_path = ['_static']
