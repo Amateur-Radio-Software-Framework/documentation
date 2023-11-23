@@ -1,4 +1,4 @@
-![gh-pages](https://github.com/github/docs/actions/workflows/gh-pages.yml/badge.svg)
+![gh-pages](https://github.com/Amateur-Radio-Software-Framework/documentation/actions/workflows/gh-pages.yml/badge.svg)
 
 # Amateur Radio Software Framework
 
