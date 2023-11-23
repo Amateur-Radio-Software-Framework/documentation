@@ -7,10 +7,10 @@ Here you will find all the documentation for the Amateur Radio Software Framewor
    :maxdepth: 2
 
    self
-   general
-   languages/c
-   languages/java
-   languages/node
-   languages/php
-   languages/python
+   general/index
+   languages/c/index
+   languages/java/index
+   languages/node/index
+   languages/php/index
+   languages/python/index
 
