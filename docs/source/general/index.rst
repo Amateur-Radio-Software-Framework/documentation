@@ -53,3 +53,28 @@ So, what are some examples of a client side application. Well a contact logger s
 So, what is an example of where you would want to create both a server side and a client side application. A classic example of this is you developed an API based application to run in a hosting service that connects to a database to store data. You have various API endpoints to do things like retrieve data from the database, add data to the database, or manipulate existing data in the database. However, there is no web based front end to interact with this API. Instead you develop a client side application the end user installs on their local machine that then authenticates and interacts with the server side API you have developed. 
 
 What about a library? Many languages support importing of packages/libraries. These are smaller bits of code that can be imported into your project and then used so you don't have to write the code to do it yourself. So let's say you ar working on writing a python application and you want to work with a JSON file for data management. you can then add `import json` to the top of your python application to import the `json` package and then use it to work with the JSON files instead of figuring out how to do that yourself. 
+
+Variable Naming
+###############
+
+To maintain consistency of readable code please use the following formating when naming variables
+
+.. list-table:: Variable Formats
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Prefix
+     - Used For
+     - Example
+   * - `g_`
+     - Global Variables
+     - g_myGlobalVar = 'Some Value'
+   * - `l_`
+     - Local Variables
+     - l_myVar = 'Some Value'
+   * - `o_`
+     - Object Instantation
+     - o_myObject = Object()
+   * - `c_`
+     - Class Reference
+     - c_myClass = MyClass()
