@@ -13,7 +13,7 @@ When writing a Python application, it is recommended to add a header section to 
     # -*- coding: utf-8 -*-
 
     """
-    Description: A short description of that this python script does
+    Description: A short description of what this python script does
 
     This code was written in compliance with the Amateur Radio Software Framework (ARSFW)
     https://amateur-radio-software-framework.github.io/documentation/
