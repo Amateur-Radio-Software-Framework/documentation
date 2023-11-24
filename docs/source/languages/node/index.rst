@@ -10,7 +10,7 @@ When writing a Node.js application, it is recommended to add a header section to
 .. code-block:: javaapplication
 
     /*
-    Deapplicationion: A short deapplicationion of what this node.js application does
+    Description: A short deapplicationion of what this node.js application does
 
     This code was written in compliance with the Amateur Radio Software Framework (ARSFW)
     https://amateur-radio-software-framework.github.io/documentation/
