@@ -29,3 +29,21 @@ Here are some things you should ask yourself and consider before you begin writi
       3. Does this tool provide value to the community? If so, what is that value?
 2. Have I developed a roadmap of the code I want to write?
 3. Have I developed a detailed list of functionality/features I want to provide in my tool?
+
+
+
+What Type of Application?
+#########################
+
+Next to consider is what type of application you want to build. The 3 choices here are
+
+1. Client Side
+2. Server Side
+3. Both Client and Server Side
+
+In case you are not sure what the difference between client side and server side are, it can really be summed up in 2 sentenances. 
+
+- A client side application is an application designed to run on the end users computer
+- A server side application is designed to be hosted on a server somewhere and the end user access the application through other means
+
+So, what are some examples of a client side application. Well a contact logger such as N3FJP, Log4OM, HAMRS. Winlink, WSJT-X, JS8Call are also client side applications. Now you are probably looking for some examples of server side applications. Sure those are out there too. Brandmeister for DMR talkgroups, APRS.fi, QRZ.com are all server side applications. Notice the difference here is if the end user has to install anything on their local machine to use the application or not. If they do, that is a client side application. If they don't, then it is a server side application. 
